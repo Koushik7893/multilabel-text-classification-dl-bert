@@ -84,7 +84,7 @@ Because multiple labels can be true at once, we use:
 ## 💻 Run Locally
 
 ```bash
-git clone https://github.com/Koushim/text-multilabel-classification.git
+git clone https://github.com/Koushik7893/text-multilabel-classification-dl-bert
 cd text-multilabel-classification
 pip install -r requirements.txt
 ````
